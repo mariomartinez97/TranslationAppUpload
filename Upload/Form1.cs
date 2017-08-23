@@ -16,5 +16,10 @@ namespace Upload
         {
             InitializeComponent();
         }
+
+        private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
