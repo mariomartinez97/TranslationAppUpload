@@ -1,2 +1,10 @@
 D:\Archivos\M4\TRADUCTOR\Upload\Upload\bin\Debug\Upload.exe.config
 D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\bin\Debug\Upload.exe.config
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\bin\Debug\Upload.exe
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\bin\Debug\Upload.pdb
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\obj\Debug\Upload.csprojResolveAssemblyReference.cache
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\obj\Debug\Upload.Form1.resources
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\obj\Debug\Upload.Properties.Resources.resources
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\obj\Debug\Upload.csproj.GenerateResource.Cache
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\obj\Debug\Upload.exe
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\obj\Debug\Upload.pdb
