@@ -20,19 +20,20 @@ namespace Upload
             set;
         }
 
+        public String definincion
+        {
+            get;
+            set;
+        }
+
         // Overload for the [] operator.
-        // This allows for you to access a data member of the Movie class as if the Movie was an array.
+        // This allows for you to access a data member of the Word class as if the Word was an array.
         //
         // Example:
-        //              Movie m = new Movie();
-        //              String title = m[0];
+        //              Word w = new Word();
+        //              String palabra = w[0];
         //
-        //              The String title now holds m.Title's value.
-        //
-        // This is going to be used for your sorting algorithms. If you look at the already implemented 
-        // quickSort function, it takes in the columnIndex of which column was clicked by the user to 
-        // trigger the sort. Having this overload lets us do something like movies[i][columnIndex] to
-        // easily get access to the Year for example if the columnIndex is 3.
+        //              The String palabra now holds w.palabra value.
         public String this[int _column]
         {
             get
@@ -45,6 +46,8 @@ namespace Upload
                     case 1:
                         return traduccion;
                         break;
+                    case 2:
+                        return definincion;
                     default:
                         return palabra;
                         break;
@@ -56,10 +59,10 @@ namespace Upload
         // in function form.
         //
         // Example:
-        //              Movie m = new Movie();
-        //              String title = m.GetDataMemberByColumn(0);
+        //              Word w = new Word();
+        //              String palabra = w.GetDataMemberByColumn(0);
         //
-        //              The String title now holds m.Title's value.
+        //              The String palabra now holds w.palabra value.
         public String GetDataMemberByColumn(int _column)
         {
             switch (_column)
@@ -70,6 +73,8 @@ namespace Upload
                 case 1:
                     return traduccion;
                     break;
+                case 2:
+                    return definincion;
                 default:
                     return palabra;
                     break;
