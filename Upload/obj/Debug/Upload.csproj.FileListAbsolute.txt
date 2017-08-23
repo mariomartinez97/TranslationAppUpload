@@ -1,0 +1,2 @@
+D:\Archivos\M4\TRADUCTOR\Upload\Upload\bin\Debug\Upload.exe.config
+D:\Archivos\M4\TRADUCTOR\TranslationAppUpload\Upload\bin\Debug\Upload.exe.config
